@@ -26,7 +26,7 @@ Because "it works on my machine" isn’t good enough. I design systems that just
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;**"Security Shield Charm"**: Embedded Trivy + SonarQube into pipelines—because vulnerabilities fear proactive wizards.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;**"Git Harmony"**: Orchestrated team symphonies with Git, boosting collaboration by 30%. No merge conflicts, just pure rhythm.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about DevOps, I am happy to help
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: vinodachar985@gmail.com
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: rmabasha371@gmail.com
 
 
 </br>
