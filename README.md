@@ -1,7 +1,7 @@
 ### <samp>&gt; Hi there, I'm Basha </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/r-mahaboob-basha-a5b75337a](https://www.linkedin.com/in/r-mahaboob-basha-a5b75337a/))
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]((https://x.com/BashaR_Devops?t=5vln5V4HbBPVm7GKSXWRgA&s=09))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/r-mahaboob-basha-a5b75337a/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/BashaR_Devops?t=5vln5V4HbBPVm7GKSXWRgA&s=09)
 
 ### Glad to see you here! &nbsp;
 
